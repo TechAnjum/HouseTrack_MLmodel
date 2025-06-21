@@ -1,11 +1,16 @@
 # HouseTrack_MLmodel
 
 # Objective 
+<<<<<<< HEAD
 '''
+=======
+
+>>>>>>> 5ea26ffa535a4f62f2462d9c7dbc34fbcfef0484
 This step-by-step guide walks you through building a machine learning model to 
 predict house prices in Mumbai. We'll use real-world housing data, clean and encode 
 it, and build a regression model to estimate prices. 
 By the end of this project, you’ll understand how to: 
+<<<<<<< HEAD
 ● Load and preprocess real estate data 
 ● Normalize price values for consistenc 
 ● Encode categorical features 
@@ -21,4 +26,32 @@ This project aims to build a machine learning model to predict house prices in M
 ● Normalized prices from mixed units 
 ● Cleaned and encoded relevant data 
 ● Trained and evaluated a Linear Regression model 
+=======
+
+● Load and preprocess real estate data 
+
+● Normalize price values for consistenc 
+
+● Encode categorical features 
+
+● Build and evaluate a Linear Regression model 
+
+# Import necessary libraries
+pandas
+
+sklearn
+
+LabelEncoder
+
+Linear Regression
+# Summary 
+This project aims to build a machine learning model to predict house prices in Mumbai.
+
+● Normalized prices from mixed units 
+
+● Cleaned and encoded relevant data 
+
+● Trained and evaluated a Linear Regression model 
+
+>>>>>>> 5ea26ffa535a4f62f2462d9c7dbc34fbcfef0484
 ● Analyzed model performance with MSE and R² metrics
